@@ -4,7 +4,7 @@ Updated for beego v1.6
 ## Installation
 
 ```
-# Setup Golang and set up your GOPATH by now
+# Setup Golang and set up your GOPATH first. Then:
 go get github.com/arehmandev/sample
 go get github.com/astaxie/beego
 go get github.com/gorilla/websocket
