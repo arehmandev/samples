@@ -15,7 +15,7 @@
 package controllers
 
 import (
-	"samples/WebIM/models"
+	"github.com/arehmandev/samples/WebIM/models"
 )
 
 // LongPollingController handles long polling requests.

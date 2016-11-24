@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/arehmandev/samples/todo/controllers"
 	"github.com/astaxie/beego"
-	"samples/todo/controllers"
 )
 
 func main() {
