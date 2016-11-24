@@ -14,7 +14,7 @@ go get github.com/beego/i18n
 ## To run
 
 ```
-cd $GOPATH/src/github.com/arehmandev/samples/(Folder-name-below)
+cd $GOPATH/src/github.com/arehmandev/samples/(Folder-name-of-project)
 bee run
 browse to localhost:8080 to try!
 ```
